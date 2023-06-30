@@ -17,7 +17,7 @@
 
 ## 🔧 Tools & Technologies
 🔹 Solidity, Remix, Hardhat
-🔹 Ethereum, Polygon
+🔹 Ethereum, Chainlink, Polygon
 🔹 Ethers.js, Metamask
 
 
