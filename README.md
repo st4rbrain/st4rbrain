@@ -1,14 +1,14 @@
 # Hi there 👋
 
 ## 🔗 About Me
-- Tech Savvy, Blockchain developer and a CS student.
+- Tech Savvy, Blockchain developer, and a CS student.
 - I create decentralized applications (DApps) / Smart contracts.
-- I constantly explore and learn about the new and innovative ideas in this as well as the other futuristic technologies.
+- I constantly explore and learn about new and innovative ideas in this as well as other futuristic technologies.
 
 
 ## 👨‍💻 What I Do
 - **Solidity Smart Contracts** ✨: &nbsp;&nbsp;*I specialize in writing secure, robust, and efficient smart contracts using Solidity (Intermediate Level)*
-- **DApps and NFTs** 🌐: &nbsp;&nbsp;*I create decentralized applications (DApps) and also have the knowledge of NFT integration with the Dapps*
+- **DApps and NFTs** 🌐: &nbsp;&nbsp;*I create decentralized applications (DApps) and also have knowledge of NFT integration with the Dapps*
 
   
 ## 📚 Currently Learning
