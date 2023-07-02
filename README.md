@@ -1,13 +1,14 @@
 # Hi there 👋
 
 ## 🔗 About Me
-- I'm a passionate blockchain developer.
-- Creating decentralized applications (DApps) and smart contracts and also looking for some new and innovative ideas.
+- Tech Savvy, Blockchain developer and a CS student.
+- I create decentralized applications (DApps) / Smart contracts.
+- I constantly explore and learn about the new and innovative ideas in this as well as the other futuristic technologies.
 
 
 ## 👨‍💻 What I Do
-- **Solidity Smart Contracts** ✨: *I specialize in writing secure, robust, and efficient smart contracts using Solidity (Intermediate Level)*
-- **DApp and NFTs** 🌐: *I create decentralized applications (DApps) and also have the knowledge of NFT integration with the Dapps*
+- **Solidity Smart Contracts** ✨: &nbsp;&nbsp;*I specialize in writing secure, robust, and efficient smart contracts using Solidity (Intermediate Level)*
+- **DApps and NFTs** 🌐: &nbsp;&nbsp;*I create decentralized applications (DApps) and also have the knowledge of NFT integration with the Dapps*
 
   
 ## 📚 Currently Learning
@@ -26,8 +27,9 @@
 
 
 ## 📬 Let's Connect
-👀 Looking for opportunities to collaborate on exciting projects.
-
+👀 Looking for opportunities to collaborate on exciting projects.<br><br>
+&emsp;<a href="https://discord.com/users/936974969269780511"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="28" height="28" alt="Discord"></a> &emsp;
+<a href="https://twitter.com/st4rlad"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="28" height="28" alt="Twitter">&emsp;<a href="https://www.instagram.com/_st4r.b0y/"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/instagram-512.png" width="28" height="28" alt="Instagram"></a>
 
 ## ⚡ Fun Fact
 😅 I have a good sense of humor
