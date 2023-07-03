@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<p align="center"><img src="./DogeGIF.gif" alt="Doge GIF" width=360 height=270></img></p>
+<img align="right" src="./DogeGIF.gif" alt="Doge GIF" width=320 height=240></img>
 
 ## 🔗 About Me
 - Tech Savvy, Blockchain developer, and a CS student.
