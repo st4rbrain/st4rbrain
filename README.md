@@ -1,11 +1,11 @@
 # Hi there 👋
 
-<img align="right" src="./DogeGIF.gif" alt="Doge GIF" width=320 height=240></img>
+<img align="right" src="./DogeGIF.gif" alt="Doge GIF" width=280 height=210></img>
 
 ## 🔗 About Me
 - Tech Savvy, Blockchain developer, and a CS student.
 - I create decentralized applications (DApps) / Smart contracts.
-- I constantly explore and learn about new and innovative ideas in this as well as other futuristic technologies.
+- Constantly exploring and learning about new and innovative ideas in this as well as other futuristic technologies.
 
 
 ## 👨‍💻 What I Do
