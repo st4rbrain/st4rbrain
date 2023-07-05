@@ -9,7 +9,7 @@
 
 
 ## 👨‍💻 What I Do
-- **Solidity Smart Contracts** ✨: &nbsp;&nbsp;*I specialize in writing secure, robust, and efficient smart contracts using Solidity (Intermediate Level)*
+- **Solidity Smart Contracts** ✨: &nbsp;&nbsp;*I specialize in writing secure, robust, and efficient smart contracts using Solidity*
 - **DApps and NFTs** 🌐: &nbsp;&nbsp;*I create decentralized applications (DApps) and also have knowledge of NFT integration with the Dapps*
 
   
